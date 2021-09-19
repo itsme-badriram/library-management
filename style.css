@@ -1,0 +1,20 @@
+.checkout-remove {
+    cursor: pointer;
+}
+#datatable tr {
+    cursor: pointer;
+}
+.renew, .return {
+    font-size: 20px;
+    text-align: center;
+}
+.renew-icon, .return-icon {
+    cursor: pointer;
+
+}
+.modal {
+    z-index: 1500 !important;
+}
+#confirmModal, #alertModal {
+    z-index: 1501 !important;
+}
